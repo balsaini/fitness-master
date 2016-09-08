@@ -1,7 +1,15 @@
+plugins {
+    id "org.flywaydb.flyway" version "4.0.3"
+}
+
 apply plugin: 'spring-boot'
 
+flyway {
+    url = 'jdbc:mysql://localhost:3306/fitness'
+}
+
 jar {
-    baseName = 'compute'
+    baseName = 'web2'
     version = '0.0.1-SNAPSHOT'
 }
 

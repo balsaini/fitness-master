@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compute/compute.iml" filepath="$PROJECT_DIR$/.idea/modules/compute/compute.iml" group="compute" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compute/compute_main.iml" filepath="$PROJECT_DIR$/.idea/modules/compute/compute_main.iml" group="compute" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compute/compute_test.iml" filepath="$PROJECT_DIR$/.idea/modules/compute/compute_test.iml" group="compute" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.iml" group="data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data_main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data_main.iml" group="data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data_test.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data_test.iml" group="data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fitness-master.iml" filepath="$PROJECT_DIR$/.idea/modules/fitness-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fitness-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fitness-master_main.iml" group="fitness-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fitness-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fitness-master_test.iml" group="fitness-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2/web2.iml" filepath="$PROJECT_DIR$/.idea/modules/web2/web2.iml" group="web2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2/web2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web2/web2_main.iml" group="web2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2/web2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web2/web2_test.iml" group="web2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
+    </modules>
+  </component>
+</project>

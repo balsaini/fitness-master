@@ -19,5 +19,4 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-amqp')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('io.jsonwebtoken:jjwt:0.6.0')
-	runtime('mysql:mysql-connector-java')
 }
