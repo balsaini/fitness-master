@@ -1,1 +1,5 @@
 .gradle/
+build/
+compute/build/
+data/build/
+web/build/
