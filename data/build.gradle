@@ -1,0 +1,17 @@
+apply plugin: 'spring-boot'
+
+jar {
+	baseName = 'data'
+	version = '0.0.1-SNAPSHOT'
+}
+
+bootRepackage{
+	enabled = false
+}
+
+dependencies {
+	compile('org.springframework.boot:spring-boot-starter-data-jpa')
+	compile('org.springframework.boot:spring-boot-starter-web')
+	compile('org.springframework.boot:spring-boot-starter-security')
+	compile('org.projectlombok:lombok')
+}

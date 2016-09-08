@@ -14,13 +14,10 @@ jar {
 }
 
 dependencies {
-	compile('org.springframework.boot:spring-boot-starter-data-jpa')
-	compile('org.springframework.boot:spring-boot-devtools')
-	compile('org.projectlombok:lombok')
+	compile project(':data')
 	compile('org.springframework.boot:spring-boot-starter-security')
+	compile('org.springframework.boot:spring-boot-starter-amqp')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('io.jsonwebtoken:jjwt:0.6.0')
 	runtime('mysql:mysql-connector-java')
-	testCompile('org.springframework.boot:spring-boot-starter-test')
-	testCompile('io.rest-assured:rest-assured:3.0.0')
 }
